@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+uploads/
+*.mp4
+
+model/*.pkl
+static/images/diet.jpg
+static/images/disease.jpg
